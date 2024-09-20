@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: torch-symplectic-adjoint
+Version: 0.0.1
+Summary: symplectic adjoint method for PyTorch.
+Home-page: https://github.com/tksmatsubara/symplectic-adjoint-method
+Author: Takashi Matsubara
+Author-email: matsubara@sys.es.osaka-u.ac.jp
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: ~=3.6

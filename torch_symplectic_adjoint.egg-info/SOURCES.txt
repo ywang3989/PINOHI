@@ -1,0 +1,6 @@
+setup.py
+torch_symplectic_adjoint.egg-info/PKG-INFO
+torch_symplectic_adjoint.egg-info/SOURCES.txt
+torch_symplectic_adjoint.egg-info/dependency_links.txt
+torch_symplectic_adjoint.egg-info/requires.txt
+torch_symplectic_adjoint.egg-info/top_level.txt
